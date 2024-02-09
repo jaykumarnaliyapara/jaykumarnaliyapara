@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jaykumarnaliyapara
 - I am student @ Parul University
-- Web developer
+- Web developer{MERN Stack}
 - Reach me @ jaykumar.naliyapara@gmail.com
 
 <!---
